@@ -2,7 +2,6 @@
 
 This guide walks you step-by-step through deploying a vLLM server (`Mistral 7B Instruct`) on an AWS GPU instance, with monitoring via Grafana + Prometheus + NVIDIA DCGM.
 
-🔗 **Associated repo**: [RAG-in-Production – Day 3 Morning](https://github.com/quickscale-ai/Trainings/tree/main/RAG-in-Production/Day%203/Morning)  
 📄 **Client notebook**: `client_vllm_test_notebook.ipynb`  
 📊 **Grafana dashboard**: `vllm_dashboard.json`
 
