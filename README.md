@@ -214,6 +214,7 @@ volumes:
   grafana-storage:
   prometheus-storage:
 ```
+CRT o + enter + crt X
 
 ---
 
@@ -236,6 +237,7 @@ scrape_configs:
     static_configs:
       - targets: ['dcgm-exporter:9400']
 ```
+CRT o + enter + crt X
 
 ---
 
